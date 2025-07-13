@@ -26,4 +26,4 @@ A high-performance flight controller for quadcopters based on STM32F722RET6 micr
 4. Build and flash to target
 
 ## Usage
-See full documentation in docs/Flight_Controller_report.docx
+See full documentation in Flight_Controller_report.docx
